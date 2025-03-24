@@ -1,4 +1,4 @@
-Welcome to my GitHub Branch & Commits
+# Welcome to my GitHub Branch & Commits
 
 Ich bin Flex, 32 Jahre alt und das ist mein GitHub. Ich soll hier irgendwas interessantes schreiben, weils sonst langweilig wird. 😁 
 
