@@ -8,10 +8,10 @@ https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHprejBiMXR4YjBoNWxqamhwaDYxem
 🏪🛒 Und hier noch eine Liste zum einkaufen:
 
 - Eier
-- Milch
+- Milch 🥛
 - Tofu
 - Soja
 - Cornflakes
 - Sprite
-- Brot
+- Brot 🍞
 - Naschi
